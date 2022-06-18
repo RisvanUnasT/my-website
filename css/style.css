@@ -378,7 +378,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner{
-	background:url(../images/banner.jpg) no-repeat center;
+	background:url(../images/ALSAMRA.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
